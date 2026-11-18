@@ -1,0 +1,17 @@
+Metric,Value
+Original Records,1134
+Original Columns,21
+Exact Duplicates Removed,14
+Processed Records,1120
+Clean Records,1108
+Records Requiring Review,12
+Missing Brand,13
+Missing Purchase Cost,9
+Missing Warehouse,11
+Missing Expiry Date,16
+Missing Quantity Sold,9
+Missing Transaction ID,580
+Negative Quantities,8
+Invalid Discounts,4
+Revenue Mismatches,8
+Sales After Expiry,550

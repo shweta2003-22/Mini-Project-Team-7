@@ -1,0 +1,6 @@
+Waste_Reason,Affected_Batches,Waste_Events,Total_Expired_Units,Total_Expired_Loss_EUR,Avg_Discount_Applied,Loss_Share_Pct
+Near-expiry not discounted,6,6,432,1351.3,27.5,31.54
+Low demand,5,5,365,962.2,16.0,22.46
+Overstocking,4,4,406,881.0,21.25,20.56
+Poor stock rotation,5,5,360,610.0500000000001,18.0,14.24
+Forecast error,4,4,350,480.05,17.5,11.2

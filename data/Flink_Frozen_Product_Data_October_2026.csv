@@ -1,0 +1,1135 @@
+﻿Product_ID,Product_Name,Category,Brand,Purchase_Cost,Selling_Price,Storage_Temperature_C,Batch_ID,Warehouse_ID,Purchase_Date,Expiry_Date,Initial_Stock,Quantity_Sold,Current_Stock,Expired_Quantity,Waste_Reason,Transaction_ID,Sale_Date,Unit_Selling_Price,Discount_Percentage,Total_Revenue
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,0.0,0,0,,,2026-10-27,2.99,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,6.0,79,0,,TX202610230142,2026-10-23,2.84,5,17.04
+FP009,Frozen Lasagne,icecream,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,6.0,95,0,,TX202610020092,2026-10-02,3.76,35,22.56
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,3.0,77,0,,TX202610310072,2026-10-31,4.29,0,12.87
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,3.0,143,0,,TX202610060012,2026-10-06,4.49,0,13.47
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,12.0,39,0,,TX202610040101,2026-10-04,2.59,0,31.08
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,3.0,111,0,,TX202610030121,2026-10-03,6.29,0,18.87
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,81,0,,TX202610150112,2026-10-15,8.99,0,17.98
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,4.0,104,0,,,2026-10-25,4.29,0,17.16
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,6.0,27,0,,TX202610210162,2026-10-21,4.79,0,28.74
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-06,8.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-30,2.79,30,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-14,8.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,3.0,100,0,,TX202610080162,2026-10-08,4.31,10,12.93
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,2.0,114,0,,TX202610230072,2026-10-23,4.29,0,8.58
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,1.0,71,0,,TX202610180121,2026-10-18,4.09,35,4.09
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,1.0,139,0,,TX202610060152,2026-10-06,3.79,0,3.79
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,4.0,169,0,,TX202610150132,2026-10-15,4.99,0,19.96
+FP005,Chicken Nuggets,Meat,OCEANWAY,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-30,6.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,4.0,29,0,,TX202610140042,2026-10-14,2.24,10,8.96
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,8.0,3,0,,TX202610260162,2026-10-26,4.55,5,36.4
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-07,5.79,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,189,0,,TX202610120111,2026-10-12,8.99,0,8.99
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,5.0,66,0,,TX202610080042,2026-10-08,2.49,0,12.45
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-28,5.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,4.0,112,0,,TX202610150061,2026-10-15,5.99,0,23.96
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-23,4.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-23,2.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-26,5.99,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-23,5.79,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-09,5.79,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-31,2.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,5.0,10,0,,TX202610180042,2026-10-18,1.62,35,8.1
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,183,0,,TX202610100132,2026-10-10,4.99,0,9.98
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,4.0,74,0,,TX202610170112,2026-10-17,8.99,0,35.96
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-24,4.49,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,11.0,74,0,,TX202610140012,2026-10-14,4.49,0,49.39
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,4.0,70,0,,TX202610080031,2026-10-08,2.79,0,11.16
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-15,2.59,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,181,0,,,2026-10-16,8.99,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-09,8.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,3.0,203,0,,TX202610030072,2026-10-03,4.29,0,12.87
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,13.0,53,0,,TX202610160012,2026-10-16,4.49,0,58.37
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,4.0,145,0,,TX202610110142,2026-10-11,2.99,0,11.96
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-24,3.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,10.0,45,0,,TX202610120052,2026-10-12,6.49,0,64.9
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-04,5.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-26,8.49,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,2.0,117,0,,TX202610040122,2026-10-04,6.29,0,12.58
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-17,2.59,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-26,4.49,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,7.0,116,0,,TX202610140141,2026-10-14,2.99,0,20.93
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-27,4.29,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,2.0,134,0,,TX202610080152,2026-10-08,3.22,15,6.44
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,5.0,13,0,,TX202610290182,2026-10-29,2.29,0,11.45
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-25,8.49,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,5.0,84,0,,TX202610190141,2026-10-19,2.99,0,14.95
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,,178,0.0,0,0,,,2026-10-29,5.99,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,11.0,74,0,,TX202610070031,2026-10-07,2.79,0,30.69
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,2.0,27,0,,TX202610260182,2026-10-26,2.29,0,4.58
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,7.0,190,0,,TX202610010141,2026-10-01,2.99,0,20.93
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,31/13/2026,117,4.0,65,0,,TX202610110022,2026-10-11,5.29,0,21.16
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,3.0,118,0,,TX202610130061,2026-10-13,5.99,0,17.97
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,11.0,62,0,,TX202610170161,2026-10-17,4.79,0,52.69
+FP011,Frozen Salmon Fillets,Seafood,OCEANWAY,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,95,0,,TX202610050112,2026-10-05,8.99,0,17.98
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,4.0,169,0,,TX202610230111,2026-10-23,8.99,0,35.96
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,,204,5.0,152,0,,TX202610240132,2026-10-24,4.99,0,24.95
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,1.0,0,187,Overstocking,TX202610060081,2026-10-06,3.21,30,3.21
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-31,5.29,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,3.0,89,0,,TX202610230151,2026-10-23,3.22,15,9.66
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-21,5.79,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,7.0,43,0,,TX202610070071,2026-10-07,4.29,0,30.03
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,4.0,205,0,,TX202610010082,2026-10-01,4.59,0,18.36
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,6.0,169,0,,TX202610060142,2026-10-06,2.99,0,17.94
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,4.0,71,0,,TX202610130162,2026-10-13,4.79,0,19.16
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-17,4.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,11.0,0,91,Overstocking,TX202610100021,2026-10-10,4.76,10,52.36
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,2.0,75,0,,TX202610060042,2026-10-06,2.49,0,4.98
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-19,4.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,0.0,0,0,,,2026-10-28,5.99,0,0.0
+FP004,Frozen Broccoli,pizza,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-11,2.49,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-17,2.59,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,-2.0,0,0,,,2026-10-19,6.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-28,2.49,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,5.0,59,0,,TX202610160182,2026-10-16,2.29,0,11.45
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-26,2.49,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-15,4.49,10,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-27,2.29,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-26,5.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-22,5.99,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,3.0,144,0,,TX202610030152,2026-10-03,3.79,0,11.37
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,3.0,106,0,,,2026-10-09,6.29,0,18.87
+FP013,Frozen Blueberries,vegetables ,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,7.0,0,45,Forecast error,,2026-10-30,3.74,25,26.18
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-25,2.59,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,2.0,66,0,,TX202610020071,2026-10-02,4.29,0,8.58
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-11,8.49,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-12,2.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,5.0,112,0,,TX202610030031,2026-10-03,2.79,0,13.95
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,10.0,141,0,,TX202610090141,2026-10-09,2.99,0,29.9
+FP017,Frozen Shrimp,Seafood,OceanWay,79.4,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-21,8.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,,155,3.0,0,102,Near-expiry not discounted,TX202610150152,2026-10-15,2.65,30,7.95
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,5.0,129,0,,TX202610020131,2026-10-02,4.99,0,24.95
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-17,3.79,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-11,4.59,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-21,8.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,148,0,,TX202610260132,2026-10-26,4.99,0,9.98
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,4.0,79,0,,TX202610150161,2026-10-15,4.79,0,19.16
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,6.0,125,0,,TX202610200072,2026-10-20,4.29,0,25.74
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,8.0,117,0,,TX202610160151,2026-10-16,3.79,0,30.32
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,4.0,134,0,,TX202610040021,2026-10-04,5.03,5,20.12
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,7.0,6,0,,,2026-10-30,2.29,0,16.03
+FP012,Vegan Burger Patties,Sea Food,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,2.0,117,0,,TX202610040122,2026-10-04,6.29,0,12.58
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,130,0,,TX202610140142,2026-10-14,2.99,0,20.93
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,7.0,52,0,,,2026-10-05,4.29,0,30.03
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,2.0,92,0,,TX202610130122,2026-10-13,6.29,0,12.58
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,3.0,11,0,,TX202610250162,2026-10-25,4.79,0,14.37
+FP010,Frozen Fries,Potatoes,frostbite,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-12,2.59,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-29,4.59,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,5.0,9,0,,TX202610290161,2026-10-29,4.79,0,23.95
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,3.0,88,0,,,2026-10-11,6.29,0,18.87
+FP013,Frozen Blueberries,Fruit,,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,2.0,73,0,,TX202610230131,2026-10-23,4.24,15,8.48
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,193,0,,,2026-10-09,8.99,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,3.0,131,0,,,2026-10-19,4.29,0,12.87
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,197,0,,TX202610030132,2026-10-03,4.99,0,14.97
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,2.0,105,0,,TX202610060121,2026-10-06,6.29,0,12.58
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,4.0,35,0,,TX202610220182,2026-10-22,2.29,0,9.16
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,5.0,132,0,,TX202610080012,2026-10-08,4.49,0,22.45
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,1.0,94,0,,TX202610060112,2026-10-06,8.99,0,8.99
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,3.0,29,0,,TX202610130031,2026-10-13,2.79,0,8.37
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,5.0,108,0,,TX202610130152,2026-10-13,3.22,15,16.1
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-11,5.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,4.0,94,0,,TX202610020042,2026-10-02,2.49,0,9.96
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,2.0,163,0,,TX202610300111,2026-10-30,8.99,0,17.98
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-15,2.79,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-28,2.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,56,0,,TX202610180161,2026-10-18,4.31,10,25.86
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-19,2.59,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,3.0,36,0,,TX202610090071,2026-10-09,4.29,0,12.87
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-25,5.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-30,8.49,0,0.0
+FP014,Garlic Bread,PIZZA,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,12.0,67,0,,,2026-10-24,2.99,0,35.88
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,8.0,66,0,,TX202610150012,2026-10-15,4.49,0,35.92
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-20,4.59,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,3.0,201,0,,TX202610020111,2026-10-02,8.99,0,26.97
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-24,8.49,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-27,6.29,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-27,8.49,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-25,6.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-31,5.29,0,0.0
+FP006,Frozen Fish Fingers,Seafood,Sweet Peak ,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-17,5.99,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,63,0,,TX202610210112,2026-10-21,8.99,0,26.97
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,1.0,188,0,,TX202610050081,2026-10-05,3.67,20,3.67
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-25,6.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-24,2.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-26,2.79,10,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,7.0,33,0,,TX202610150052,2026-10-15,5.52,15,38.64
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,6.0,0,171,Forecast error,TX202610100181,2026-10-10,1.83,20,10.98
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-13,2.29,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,1.0,49,0,,TX202610290112,2026-10-29,7.64,15,7.64
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-24,2.79,15,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-26,6.29,0,0.0
+FP018,Spinach Portions,Sea Food,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,3.0,64,0,,TX202610150182,2026-10-15,2.29,0,6.87
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-29,8.49,10,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,0.0,0,0,,,2026-10-31,3.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-24,8.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-30,2.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,9.0,125,0,,TX202610110061,2026-10-11,5.99,0,53.91
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-08,8.49,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,frostbite,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,0.0,100,0,,,2026-10-03,8.99,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,6.0,103,0,,TX202610070162,2026-10-07,4.79,0,28.74
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-10,5.79,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,4.0,152,0,,TX202610060151,2026-10-06,3.79,0,15.16
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-14,5.79,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-26,2.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-29,5.99,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,3.0,90,0,,TX202610120161,2026-10-12,4.79,0,14.37
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,2.0,187,0,,TX202610130111,2026-10-13,8.99,0,17.98
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,10.0,96,0,,,2026-10-05,2.79,0,27.9
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,,2026-09-28,2026-10-25,197,0.0,0,0,,,2026-10-30,2.99,0,0.0
+FP007,Vanilla Ice Cream,Sea Food,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,3.0,176,0,,TX202610100072,2026-10-10,4.29,0,12.87
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,3.0,165,0,,TX202610040061,2026-10-04,5.99,0,17.97
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,5.0,59,0,,,2026-10-27,3.24,35,16.2
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,7.0,102,0,,TX202610090021,2026-10-09,4.23,20,29.61
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,1.0,159,0,,TX202610030151,2026-10-03,3.79,0,3.79
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,,0,0,,,2026-10-31,2.99,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,2.0,157,0,,TX202610040151,2026-10-04,3.79,0,7.58
+FP010,Frozen Fries,icecream,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-10,2.59,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,13.0,92,0,,TX202610120012,2026-10-12,4.49,0,58.37
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-23,6.29,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,3.0,46,0,,,2026-10-28,1.94,35,5.82
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,4.0,85,0,,TX202610120112,2026-10-12,8.99,0,35.96
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-27,5.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-22,2.79,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-10,4.59,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-11,8.49,10,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-11,5.99,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-28,6.29,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,0.0,0,0,,,2026-10-31,2.99,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,3,0,,TX202610300161,2026-10-30,4.79,0,28.74
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,3.0,59,0,,TX202610040071,2026-10-04,4.29,0,12.87
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-20,5.99,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-17,8.49,10,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-28,2.79,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-07,5.79,0,0.0
+FP010,Frozen Fries,pizza,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-20,2.59,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,0.0,0,0,,,2026-10-26,2.99,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,,2026-09-11,2026-10-25,178,1.0,168,0,,TX202610030061,2026-10-03,5.99,0,5.99
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,142,0,,TX202610300132,2026-10-30,4.99,0,14.97
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-15,8.49,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,6.0,137,0,,TX202610070012,2026-10-07,4.49,0,26.94
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,7.0,85,0,,TX202610130012,2026-10-13,4.49,0,31.43
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,0.0,98,0,,,2026-10-04,2.29,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,unknown,116,0.0,0,0,,,2026-10-28,2.59,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-14,2.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-29,2.79,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-18,3.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-10,8.49,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-23,4.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,5.0,120,0,,TX202610030162,2026-10-03,4.79,0,23.95
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,5.0,129,0,,TX202610050021,2026-10-05,4.5,15,22.5
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-21,4.59,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-31,6.49,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,1.0,67,0,,TX202610130182,2026-10-13,2.29,0,2.29
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-24,4.59,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,3.0,72,0,,TX202610050051,2026-10-05,6.49,0,19.47
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,2.0,47,0,,TX202610200161,2026-10-20,4.79,0,9.58
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,2.0,146,0,,TX202610080151,2026-10-08,3.79,0,7.58
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-16,2.59,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-31,2.49,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,53.8,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,50,0,,TX202610280112,2026-10-28,8.99,0,26.97
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,4.0,95,0,,TX202610090121,2026-10-09,6.29,0,25.16
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,4.0,167,0,,TX202610050141,2026-10-05,2.99,0,11.96
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,4.0,154,0,,TX202610010161,2026-10-01,4.79,0,19.16
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,1.0,186,0,,TX202610080072,2026-10-08,4.29,0,4.29
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,4.0,21,0,,,2026-10-23,4.55,5,18.2
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,12.0,0,0,,TX202610170031,2026-10-17,2.79,0,33.48
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,56.42,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-18,2.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,2.0,0,62,Near-expiry not discounted,,2026-10-06,4.49,25,8.98
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-08,5.79,0,0.0
+FP018,Spinach Portions,pizza,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,6.0,199,0,,TX202610040181,2026-10-04,2.18,5,13.08
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,8.0,108,0,,,2026-10-17,2.99,0,23.92
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,2.0,72,0,,TX202610170121,2026-10-17,5.66,10,11.32
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,,116,7.0,100,0,,TX202610020102,2026-10-02,2.2,15,15.4
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,2.0,157,0,,TX202610140072,2026-10-14,4.29,0,8.58
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-18,5.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-18,5.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,9.0,91,0,,TX202610050022,2026-10-05,5.29,0,47.61
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,6.0,126,0,,TX202610090012,2026-10-09,4.49,0,26.94
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-28,2.59,10,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,3.0,216,0,,TX202610010181,2026-10-01,2.29,0,6.87
+FP012,Vegan Burger Patties,Sea Food,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-29,6.29,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-15,4.59,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-13,4.59,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-17,4.59,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,3.0,86,0,,TX202610150122,2026-10-15,5.66,10,16.98
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,2.0,79,0,,TX202610050052,2026-10-05,6.49,0,12.98
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-04,8.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-11,2.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,4.0,141,0,,TX202610090061,2026-10-09,5.99,0,23.96
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,4.0,121,0,,TX202610120061,2026-10-12,5.99,0,23.96
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-16,5.99,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,2.0,116,0,,TX202610140061,2026-10-14,5.99,0,11.98
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-10,2.79,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,6.0,108,0,,TX202610240072,2026-10-24,4.29,0,25.74
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,,219,0.0,0,0,,,2026-10-15,2.29,0,0.0
+FP004,Frozen Broccoli,icecream,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,7.0,76,0,,TX202610020041,2026-10-02,1.99,20,13.93
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-09,5.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,5.0,88,0,,,2026-10-02,6.49,0,32.45
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,4.0,36,0,,,2026-10-24,4.79,0,19.16
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,2.0,40,0,,TX202610140052,2026-10-14,5.52,15,11.04
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,3.0,73,0,,TX202610110182,2026-10-11,2.29,0,6.87
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,-4.0,148,0,,TX202610150072,2026-10-15,4.29,0,38.61
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,5.0,190,0,,TX202610030081,2026-10-03,2.98,35,14.9
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,6.0,193,0,,TX202610040082,2026-10-04,4.59,0,27.54
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-26,4.59,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,4.0,61,0,,,2026-10-07,6.49,0,25.96
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,1.0,115,0,,TX202610060122,2026-10-06,6.29,0,6.29
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,2.0,77,0,,TX202610210141,2026-10-21,2.84,5,5.68
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,6.0,8,0,,TX202610210012,2026-10-21,4.49,0,26.94
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,3.0,151,0,,TX202610080141,2026-10-08,2.99,0,8.97
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,7.0,110,0,,TX202610010022,2026-10-01,5.29,0,37.03
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-29,3.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-19,2.59,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,8.0,69,0,,TX202610100022,2026-10-10,4.76,10,38.08
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,2.0,30,0,,TX202610240182,2026-10-24,2.29,0,4.58
+FP008,Strawberry Ice Cream,PIZZA,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,,0,0,,,2026-10-16,4.59,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,155,0,,TX202610090142,2026-10-09,2.99,0,20.93
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,2.0,75,0,,TX202610060042,2026-10-06,2.49,0,4.98
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-09,5.99,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,5.0,119,0,,TX202610030122,2026-10-03,6.29,0,31.45
+FP008,Strawberry Ice Cream,icecream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-21,4.59,10,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-30,5.79,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,185,0,,TX202610030142,2026-10-03,2.99,0,20.93
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-16,2.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-26,2.49,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,3.0,202,0,,TX202610020082,2026-10-02,4.59,0,13.77
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,4.0,148,0,,TX202610070151,2026-10-07,3.79,0,15.16
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,2.0,146,0,,TX202610160072,2026-10-16,4.29,0,8.58
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,13.0,40,0,,TX202610170012,2026-10-17,4.49,0,58.37
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-22,3.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-27,4.49,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-19,8.49,0,0.0
+FP017,Frozen Shrimp,Seafood,,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-22,8.49,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,3.0,184,0,,TX202610140111,2026-10-14,8.99,0,26.97
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,191,0,,TX202610050132,2026-10-05,4.99,0,14.97
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-26,2.59,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,4.0,205,0,,TX202610030181,2026-10-03,2.06,10,8.24
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-19,2.29,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,57,0,,TX202610240112,2026-10-24,8.99,0,17.98
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,4.0,15,0,,TX202610180052,2026-10-18,5.19,20,20.76
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,11.0,32,0,,TX202610120031,2026-10-12,2.79,0,30.69
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-21,5.79,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,4.0,71,0,,TX202610070042,2026-10-07,2.49,0,9.96
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,7.0,0,64,Overstocking,TX202610060102,2026-10-06,1.68,35,11.76
+FP015,Frozen Waffles,PIZZA,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,0.0,0,0,,,2026-10-27,3.79,0,0.0
+FP018,Spinach Portions,Vegetables,OCEANWAY,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-14,2.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-25,2.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,1.0,75,0,,TX202610070052,2026-10-07,6.49,0,6.49
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-22,6.29,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,2.0,115,0,,TX202610170151,2026-10-17,3.79,0,7.58
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,193,0,,TX202610080111,2026-10-08,8.99,0,8.99
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,5.0,12,0,,TX202610160031,2026-10-16,2.79,0,13.95
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-24,2.59,0,0.0
+FP005,Chicken Nuggets,pizza,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,2.0,73,0,,TX202610080052,2026-10-08,6.49,0,12.98
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,4.0,39,0,,TX202610210182,2026-10-21,2.29,0,9.16
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,9.0,18,0,,TX202610070011,2026-10-07,4.49,0,40.41
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-16,5.29,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-15,5.79,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,3.0,134,0,,TX202610010131,2026-10-01,4.99,0,14.97
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,6.0,71,0,,TX202610220141,2026-10-22,2.54,15,15.24
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-31,6.49,10,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-05,5.79,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,4.0,91,0,,TX202610100121,2026-10-10,6.29,0,25.16
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-20,4.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-04,2.49,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-30,6.49,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-13,5.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,5.0,157,0,,TX202610060061,2026-10-06,5.99,0,29.95
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-16,5.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,5.0,31,0,,TX202610130051,2026-10-13,5.19,20,25.95
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-23,2.59,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,6.0,106,0,,TX202610040031,2026-10-04,2.79,0,16.74
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,5.0,79,0,,TX202610020171,2026-10-02,7.22,15,36.1
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,91,0,,TX202610070112,2026-10-07,8.99,0,26.97
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,92,0,,TX202610210142,2026-10-21,2.99,0,20.93
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,3.0,90,0,,TX202610190061,2026-10-19,5.39,10,16.17
+FP012,Vegan Burger Patties,icecream,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,3.0,89,0,,TX202610140122,2026-10-14,5.98,5,17.94
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,4.0,57,0,,TX202610080051,2026-10-08,6.17,5,24.68
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-21,6.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-10,2.49,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-23,6.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-16,5.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,11.0,43,0,,TX202610110031,2026-10-11,2.79,0,30.69
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-14,4.49,30,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,6.0,139,0,,TX202610120142,2026-10-12,2.99,0,17.94
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,1.0,145,0,,TX202610290132,2026-10-29,4.99,0,4.99
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,7.0,8,0,,,2026-10-07,2.59,0,18.13
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,9.0,105,0,,TX202610110012,2026-10-11,4.49,0,40.41
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-20,3.79,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-20,5.79,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-13,5.79,10,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,0.0,0,0,,,2026-10-29,2.99,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,3.0,113,0,,TX202610120152,2026-10-12,3.03,20,9.09
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-15,5.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,2.0,201,0,,TX202610040072,2026-10-04,3.86,10,7.72
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-25,4.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-29,2.79,20,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,3.0,27,0,,TX202610110071,2026-10-11,4.29,0,12.87
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,3.0,196,0,,TX202610050181,2026-10-05,2.06,10,6.18
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-07,5.99,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-16,8.49,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-14,5.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-12,5.99,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-31,5.99,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-30,6.29,10,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,8.0,45,0,,TX202610110042,2026-10-11,2.49,0,19.92
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,3.0,76,0,,TX202610060052,2026-10-06,6.49,0,19.47
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,200,0,,TX202610030111,2026-10-03,8.99,0,8.99
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-12,5.79,10,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-06,5.79,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-29,5.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-26,6.49,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-29,2.59,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-17,2.79,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,0.0,0,0,,,2026-10-29,4.79,10,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,-4.0,0,0,,,2026-10-17,4.59,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-28,2.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-30,2.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-28,6.49,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,59,0,,TX202610230112,2026-10-23,8.99,0,17.98
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,185,0,,TX202610090132,2026-10-09,4.99,0,14.97
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,10.0,55,0,,,2026-10-12,4.76,10,47.6
+FP011,Frozen Salmon Fillets,Seafood,,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,2.0,173,0,,TX202610220111,2026-10-22,8.99,0,17.98
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,6.0,53,0,,,2026-10-17,2.29,0,13.74
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-16,8.49,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-04,8.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,6.0,93,0,,TX202610180061,2026-10-18,5.09,15,30.54
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-26,8.49,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,5.0,22,0,,,2026-10-27,2.29,0,11.45
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-21,2.49,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,4.0,0,0,,,2026-10-23,4.49,0,17.96
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,6.0,135,0,,TX202610100141,2026-10-10,2.99,0,17.94
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,2.0,84,0,,TX202610010171,2026-10-01,5.94,30,11.88
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,7.0,171,0,,TX202610040141,2026-10-04,2.99,0,20.93
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,1.0,146,0,,TX202610280132,2026-10-28,4.99,0,4.99
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,9.0,178,0,,TX202610030141,2026-10-03,2.99,0,26.91
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,5.0,81,0,,TX202610080182,2026-10-08,2.06,10,10.3
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,116,0,,,2026-10-01,8.49,25,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-21,2.59,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,9.0,107,0,,TX202610010102,2026-10-01,2.33,10,20.97
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,3.0,0,64,Overstocking,TX202610200121,2026-10-20,5.66,10,16.98
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,94,0,,,2026-10-12,6.29,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,2.0,107,0,,TX202610050121,2026-10-05,6.29,0,12.58
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-09,2.49,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-25,5.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,6.0,36,0,,TX202610050011,2026-10-05,4.49,0,26.94
+FP008,Strawberry Ice Cream,icecream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,3.0,199,0,,,2026-10-03,4.59,0,13.77
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,5.0,25,0,,TX202610260161,2026-10-26,4.31,10,21.55
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-31,4.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-12,2.79,0,0.0
+FP004,Frozen Broccoli,Vegetables,frostbite,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,-2.0,0,0,,,2026-10-23,2.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,4.0,39,0,,TX202610080071,2026-10-08,4.29,0,17.16
+FP013,Frozen Blueberries,Fruit,OCEANWAY,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,3.0,111,0,,TX202610120131,2026-10-12,4.99,0,14.97
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,2.0,159,0,,TX202610140082,2026-10-14,4.13,10,8.26
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,173,0,,TX202610140132,2026-10-14,4.99,0,9.98
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,1.0,110,0,,TX202610130131,2026-10-13,4.99,0,4.99
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,9.0,91,0,,TX202610050022,2026-10-05,5.29,0,47.61
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-10,4.49,5,0.0
+FP003,Frozen Mixed Vegetables,Frozen vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,10.0,0,99,Poor stock rotation,TX202610030032,2026-10-03,2.37,15,23.7
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-13,8.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,1.0,114,0,,TX202610110131,2026-10-11,4.99,0,4.99
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-10,2.59,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,71,0,,TX202610180112,2026-10-18,8.09,10,24.27
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-25,8.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-29,4.29,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-30,4.59,0,0.0
+FP015,Frozen Waffles,Frozen vegetables,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,2.0,140,0,,TX202610050152,2026-10-05,3.79,0,7.58
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-14,2.59,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-31,2.49,10,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,2.0,175,0,,TX202610210111,2026-10-21,8.99,0,17.98
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,7.0,134,0,,TX202610100061,2026-10-10,5.99,0,41.93
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-23,5.79,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-26,4.59,10,0.0
+FP009,Frozen Lasagne,Sea Food,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-08,5.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-19,8.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,-2.0,132,0,,,2026-10-12,3.79,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,1.0,164,0,,,2026-10-19,4.99,0,4.99
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-22,2.29,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,180,0,,,2026-10-18,8.99,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,1.0,120,0,,TX202610070131,2026-10-07,4.99,0,4.99
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,,109,0,,TX202610020032,2026-10-02,1.81,35,23.53
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-17,5.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-21,4.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,5.0,94,0,,TX202610270072,2026-10-27,4.29,0,21.45
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-29,5.79,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,1.0,29,0,,TX202610250182,2026-10-25,2.29,0,2.29
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-16,2.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-24,5.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,4.0,21,0,,TX202610160042,2026-10-16,2.37,5,9.48
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-11,2.59,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-29,4.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-19,3.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-30,4.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,8.0,17,0,,TX202610150031,2026-10-15,2.79,0,22.32
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,3.0,0,0,,TX202610310161,2026-10-31,4.79,0,14.37
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,2.0,142,0,,,2026-10-04,3.79,110,7.58
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,200,0,,TX202610020132,2026-10-02,4.99,0,14.97
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-24,2.79,10,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-24,6.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-19,2.49,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-24,5.79,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,5.0,79,0,,TX202610080022,2026-10-08,5.03,5,25.15
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,2.0,77,0,,TX202610090022,2026-10-09,5.03,5,10.06
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,4.0,175,0,,TX202610050142,2026-10-05,2.99,0,11.96
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,7.0,14,0,,,2026-10-24,4.79,0,33.53
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,4.0,0,91,Low demand,TX202610030092,2026-10-03,4.34,25,17.36
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,4.0,186,0,,TX202610080181,2026-10-08,1.49,35,5.96
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,2.0,137,0,,TX202610130142,2026-10-13,2.99,0,5.98
+FP010,Frozen Fries,pizza,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-15-40,86,0.0,0,0,,,2026-10-18,2.59,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,3.0,91,0,,TX202610280072,2026-10-28,4.29,0,12.87
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,,86,0.0,0,0,,,2026-10-12,8.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-27,5.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,6.0,6,0,,TX202610150071,2026-10-15,4.29,0,25.74
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-11,4.49,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-11,5.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-22,2.59,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,9.0,177,0,,TX202610090181,2026-10-09,1.49,35,13.41
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,6.0,89,0,,,2026-10-18,2.69,10,16.14
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,3.0,70,0,,TX202610240131,2026-10-24,4.74,5,14.22
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,3.0,24,0,,TX202610120071,2026-10-12,4.29,0,12.87
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,1.0,206,0,,TX202610020072,2026-10-02,4.29,0,4.29
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,8.0,78,0,,TX202610010101,2026-10-01,2.59,0,20.72
+FP018,Spinach Portions,Vegetables,Green farm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,1.0,105,0,,TX202610020182,2026-10-02,2.29,0,2.29
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-10,5.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,4.0,4,0,,TX202610220012,2026-10-22,4.49,0,17.96
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-17,5.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,0.0,0,0,,,2026-10-31,5.99,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,3.0,195,0,,TX202610050111,2026-10-05,8.99,0,26.97
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-09,8.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-20,5.29,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,2.0,109,0,,TX202610040121,2026-10-04,6.29,0,12.58
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-19,2.79,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-19,2.79,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-15,2.49,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-13,4.49,35,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,8.0,114,0,,TX202610070021,2026-10-07,3.97,25,31.76
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-16,2.79,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,194,0,,TX202610060111,2026-10-06,8.99,0,8.99
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,0.0,0,0,,,2026-10-30,5.99,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-26,5.29,0,0.0
+FP018,Spinach Portions,PIZZA,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,2.0,79,0,,TX202610090182,2026-10-09,2.29,0,4.58
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,4.0,100,0,,TX202610040022,2026-10-04,5.29,0,21.16
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,1.0,85,0,,TX202610160122,2026-10-16,5.35,15,5.35
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,74,0,,,2026-10-16,6.29,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,12.0,48,0,,TX202610030011,2026-10-03,4.49,0,53.88
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-19,4.29,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,7.0,145,0,,TX202610080061,2026-10-08,5.99,0,41.93
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,6.0,30,0,,TX202610100071,2026-10-10,4.29,0,25.74
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,1.0,124,0,,,2026-10-21,4.29,0,4.29
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-25,2.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,3.0,92,0,,TX202610220151,2026-10-22,3.41,10,10.23
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,7.0,147,0,,TX202610020152,2026-10-02,3.79,0,26.53
+FP017,Frozen Shrimp,Seafood,OceanWay,,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-23,8.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-26,4.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-25,4.29,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,4.0,164,0,,TX202610120082,2026-10-12,3.21,30,12.84
+FP003,Frozen Mixed Vegetables,Frozen vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-08,2.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,unknown,100,11.0,62,0,,TX202610090052,2026-10-09,6.49,0,71.39
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,1.0,198,0,,TX202610010081,2026-10-01,3.9,15,3.9
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-11,5.79,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,5.0,111,0,,TX202610150141,2026-10-15,2.99,0,14.95
+FP012,Vegan Burger Patties,Frozen vegetables,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,5.0,99,0,,TX202610080121,2026-10-08,6.29,0,31.45
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,123,0,,TX202610150142,2026-10-15,2.99,0,20.93
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-28,4.59,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-28,5.79,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,3.0,67,0,,TX202610250131,2026-10-25,4.99,0,14.97
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-29,6.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-22,5.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,7.0,63,0,,TX202610090031,2026-10-09,2.79,0,19.53
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-23,2.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,0.0,0,0,,,2026-10-31,4.79,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,181,0,,TX202610110132,2026-10-11,4.99,0,9.98
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,6.0,130,0,,TX202610010162,2026-10-01,4.79,0,28.74
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-14,2.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-31,8.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-06,2.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,2.0,83,0,,TX202610140161,2026-10-14,4.79,0,9.58
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-20,2.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,9.0,12,0,,TX202610140071,2026-10-14,4.29,0,38.61
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,7.0,169,0,,,2026-10-02,5.99,0,41.93
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,97,0,,TX202610040112,2026-10-04,8.99,0,26.97
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,9.0,54,0,,TX202610100031,2026-10-10,2.79,0,25.11
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,4.0,131,0,,,2026-10-11,2.99,0,11.96
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,6.0,83,0,,TX202610010041,2026-10-01,1.87,25,11.22
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-22,6.49,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,3.0,75,0,,,2026-10-19,5.35,15,16.05
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-28,6.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-28,5.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-21,5.29,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,1.0,90,0,,TX202610080112,2026-10-08,8.99,0,8.99
+FP011,Frozen Salmon Fillets,Seafood,,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,47,0,,TX202610300112,2026-10-30,8.99,0,17.98
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,2.0,1,0,,TX202610270162,2026-10-27,4.31,10,8.62
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-26,5.79,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-21,5.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,8.0,86,0,,TX202610030042,2026-10-03,2.49,0,19.92
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,6.0,42,0,,TX202610140022,2026-10-14,4.76,10,28.56
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,0.0,0,0,,,2026-10-26,5.99,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-22,4.29,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,3.0,187,0,,TX202610020141,2026-10-02,2.99,0,8.97
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-13,2.59,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,2.0,0,157,Poor stock rotation,TX202610150082,2026-10-15,3.21,30,6.42
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-27,4.49,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,3.0,193,0,,,2026-10-06,1.95,15,5.85
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-28,3.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-28,4.49,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,1.0,116,0,,TX202610050122,2026-10-05,6.29,0,6.29
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,1.0,154,0,,TX202610010152,2026-10-01,3.79,0,3.79
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,5.0,176,0,,TX202610120132,2026-10-12,4.99,0,24.95
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,3.0,159,0,,TX202610130072,2026-10-13,4.29,0,12.87
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,7.0,0,52,Forecast error,TX202610250141,2026-10-25,2.54,15,17.78
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,116,0,,TX202610160142,2026-10-16,2.99,0,20.93
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,1.0,156,0,,TX202610050151,2026-10-05,3.79,0,3.79
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,6.0,146,0,,,2026-10-05,4.49,0,26.94
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,1.0,117,0,,TX202610010121,2026-10-01,6.29,0,6.29
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,2.0,98,0,,TX202610010052,2026-10-01,6.49,0,12.98
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,3.0,85,0,,TX202610210061,2026-10-21,5.69,5,17.07
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-05,2.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-13,2.59,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-31,5.79,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-31,4.59,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,10.0,134,0,,,2026-10-01,2.79,0,27.9
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-23,2.29,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-31,8.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,4.0,165,0,,TX202610170132,2026-10-17,4.99,0,19.96
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-28,8.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-25,5.29,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,3.0,106,0,,TX202610010182,2026-10-01,2.29,0,6.87
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,6.0,122,0,,TX202610010032,2026-10-01,2.51,10,15.06
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,6.0,114,0,,TX202610040162,2026-10-04,4.79,0,28.74
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,10.0,80,0,,TX202610300072,2026-10-30,3.86,10,38.6
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-25,4.59,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-27,2.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,161,0,,TX202610200132,2026-10-20,4.99,0,14.97
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-20,8.49,10,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,44.46,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,7.0,162,0,,TX202610120072,2026-10-12,4.29,0,30.03
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-17,2.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,4.0,62,0,,TX202610030071,2026-10-03,4.29,0,17.16
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-13,5.99,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-19,4.59,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,0.0,161,0,,,2026-10-21,4.99,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-07,8.49,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-21,4.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,5.0,85,0,,TX202610130161,2026-10-13,4.79,0,23.95
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,3.0,190,0,,TX202610070181,2026-10-07,1.95,15,5.85
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,4.0,182,0,,TX202610010012,2026-10-01,4.49,0,17.96
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,0.0,89,0,,,2026-10-11,8.99,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-26,2.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-30,5.29,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,134,0,,TX202610040161,2026-10-04,4.79,0,28.74
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,4.0,0,0,,,2026-10-23,4.49,0,17.96
+FP008,Strawberry Ice Cream,Ice Cream,Sweet Peak ,2.15,4.59,-18,FP008-B01,,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-23,4.59,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-27,4.59,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,3.0,164,0,,TX202610060141,2026-10-06,2.99,0,8.97
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,3.0,195,0,,TX202610020081,2026-10-02,4.59,0,13.77
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-08,4.59,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-12,4.59,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,100,0,,TX202610090161,2026-10-09,4.79,0,28.74
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-24,4.59,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,4.0,110,0,,TX202610050162,2026-10-05,4.79,0,19.16
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-17,6.49,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,6.0,192,0,,TX202610020142,2026-10-02,2.99,0,17.94
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,1.0,89,0,,,2026-10-09,8.99,0,8.99
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,0.0,0,0,,,2026-10-28,3.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,3.0,28,0,,TX202610140051,2026-10-14,4.87,25,14.61
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,5.0,109,0,,TX202610080021,2026-10-08,3.7,30,18.5
+FP001,Frozen Margherita Pizza,Pizza,,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-30,4.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,2.0,130,0,,TX202610130151,2026-10-13,3.79,0,7.58
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,3.0,86,0,,TX202610180131,2026-10-18,4.99,0,14.97
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-12,2.59,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,9.0,33,0,,TX202610130042,2026-10-13,2.37,5,21.33
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,6.0,155,0,,TX202610010091,2026-10-01,4.63,20,27.78
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,3.0,116,0,,TX202610110152,2026-10-11,3.6,5,10.8
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-09,4.59,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,8.0,99,0,,,2026-10-17,5.99,0,47.92
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,6.0,109,0,,TX202610180151,2026-10-18,3.22,15,19.32
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-14,2.59,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,194,0,,,2026-10-07,8.99,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,60,0,,TX202610250142,2026-10-25,2.54,15,17.78
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-23,8.49,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-25,6.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,4.0,81,0,,TX202610220061,2026-10-22,4.19,30,16.76
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,194,0,,TX202610040132,2026-10-04,4.99,0,14.97
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,75,Near-expiry not discounted,,2026-10-20,6.29,35,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-04,2.79,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,8.0,116,0,,TX202610220072,2026-10-22,4.29,0,34.32
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,2.0,127,0,,TX202610030131,2026-10-03,4.99,0,9.98
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-23,4.59,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,5.0,152,0,,TX202610070061,2026-10-07,5.99,0,29.95
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,2.0,0,26,Low demand,TX202610150051,2026-10-15,5.19,20,10.38
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,4.0,87,0,,TX202610060022,2026-10-06,4.76,10,19.04
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,1.0,175,0,,TX202610130132,2026-10-13,4.99,0,4.99
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-24,2.29,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,7.0,33,0,,TX202610200162,2026-10-20,4.79,0,33.53
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,4.0,25,0,,TX202610140031,2026-10-14,2.79,0,11.16
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,15.0,24,0,,,2026-10-05,2.59,0,38.85
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-28,4.49,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,204,0,,,2026-10-01,8.99,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,155,0,,TX202610090142,2026-10-09,2.99,0,20.93
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,2.0,113,0,,TX202610070122,2026-10-07,6.29,0,12.58
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,3.0,32,0,,TX202610230182,2026-10-23,2.29,0,6.87
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-27,6.29,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,0.0,83,0,,,2026-10-14,8.99,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,5.0,49,0,,TX202610170162,2026-10-17,4.79,0,23.95
+FP005,Chicken Nuggets,Meat,Sweet Peak ,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,6.0,75,0,,TX202610040051,2026-10-04,6.49,0,38.94
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-15-40,186,12.0,114,0,,TX202610100012,2026-10-10,4.49,0,53.88
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-23,5.29,0,0.0
+FP011,Frozen Salmon Fillets,PIZZA,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,0.0,56,0,,,2026-10-26,8.99,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,2.0,124,0,,TX202610020122,2026-10-02,6.29,0,12.58
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,2.0,177,0,,TX202610200111,2026-10-20,8.99,0,17.98
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-16,4.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-26,3.79,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-31,5.79,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-27,5.79,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-25,3.79,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-20,5.29,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,3.0,114,0,,TX202610020121,2026-10-02,6.29,0,18.87
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,9.0,15,0,,TX202610060101,2026-10-06,2.33,10,20.97
+FP018,Spinach Portions,Vegetables,,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,5.0,93,0,,TX202610050182,2026-10-05,2.29,0,11.45
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,6.0,38,0,,TX202610110051,2026-10-11,6.17,5,37.02
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-28,6.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-23,5.29,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-18,6.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,3.0,136,0,,TX202610070152,2026-10-07,3.79,0,11.37
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,1.0,0,0,,TX202610280162,2026-10-28,3.35,30,3.35
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,2.0,25,0,,TX202610220162,2026-10-22,4.79,0,9.58
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-18,2.79,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-21,2.79,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,166,0,,TX202610270111,2026-10-27,8.99,0,8.99
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,4.0,138,0,,TX202610030021,2026-10-03,5.29,110,21.16
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,1.0,121,0,,TX202610060131,2026-10-06,4.99,0,4.99
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-25,2.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-09,2.59,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-20,4.59,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-21,2.29,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,4.0,18,0,,TX202610280182,2026-10-28,2.29,0,9.16
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,0.0,67,0,,,2026-10-14,2.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-26,5.29,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-16,4.59,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,6.0,51,0,,TX202610090051,2026-10-09,5.84,10,35.04
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,3.0,123,0,,,2026-10-13,2.99,0,8.97
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,,0,0,,TX202610160071,2026-10-16,4.29,0,25.74
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-23,5.99,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-16,4.59,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-21,2.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,30,0,,TX202610250161,2026-10-25,4.79,0,28.74
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-27,5.99,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-27,2.49,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,4.0,55,0,,TX202610110052,2026-10-11,6.49,0,25.96
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,8.0,146,0,,TX202610020161,2026-10-02,4.79,0,38.32
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,,2026-09-09,2026-10-15,209,3.0,190,0,,,2026-10-05,4.59,0,13.77
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-18,5.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OCEANWAY,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,0.0,0,0,,,2026-10-27,5.99,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-30,5.79,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,3.0,44,0,,TX202610210161,2026-10-21,4.79,0,14.37
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,4.0,162,0,,TX202610080142,2026-10-08,2.99,0,11.96
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,78,0,,TX202610160112,2026-10-16,8.99,0,26.97
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,5.0,13,0,,TX202610080011,2026-10-08,4.27,5,21.35
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-21,3.79,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,2.0,58,0,,TX202610260142,2026-10-26,2.99,0,5.98
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-05,8.49,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,165,0,,,2026-10-29,8.99,0,8.99
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,6.0,100,0,,TX202610100122,2026-10-10,6.29,0,37.74
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,,118,3.0,76,0,,TX202610140121,2026-10-14,5.98,5,17.94
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-22,5.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,4.0,0,75,Near-expiry not discounted,TX202610030171,2026-10-03,5.94,30,23.76
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-21,6.29,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-31,6.29,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,13.0,53,0,,TX202610160012,2026-10-16,4.49,0,58.37
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,1.0,203,0,,TX202610010132,2026-10-01,4.99,0,4.99
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-20,2.79,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,6.0,89,0,,TX202610100162,2026-10-10,4.79,75,28.74
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,10.0,68,0,,TX202610020101,2026-10-02,2.59,0,25.9
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,3.0,56,0,,TX202610280131,2026-10-28,3.74,25,11.22
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-19,5.99,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-30,4.59,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,83,0,,TX202610130112,2026-10-13,8.99,0,17.98
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,3.0,84,0,,TX202610070022,2026-10-07,5.29,0,15.87
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-22,6.29,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-29,4.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,5.0,107,0,,TX202610160061,2026-10-16,5.99,0,29.95
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-12,4.49,35,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-12,5.79,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,3.0,139,0,,TX202610310132,2026-10-31,4.99,0,14.97
+FP016,Cheese Pizza Snacks,Pizza,,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,0.0,44,0,,,2026-10-22,4.79,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-13,5.29,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-22,5.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-27,2.59,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-25,5.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,7.0,0,69,Poor stock rotation,TX202610030041,2026-10-03,1.87,25,13.09
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,3.0,76,0,,TX202610100182,2026-10-10,2.29,0,6.87
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-23,2.79,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,6.0,54,0,,TX202610160162,2026-10-16,4.79,0,28.74
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,7.0,98,0,,TX202610030182,2026-10-03,2.29,0,16.03
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-05,2.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,3.0,105,0,,TX202610140152,2026-10-14,3.41,10,10.23
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,7.0,169,0,,TX202610110072,2026-10-11,4.29,0,30.03
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-30,2.59,0,0.0
+FP014,Garlic Bread,PIZZA,BakeHouse,1.35,2.99,-18,FP014-B02,,2026-09-21,2026-10-30,207,9.0,49,0,,TX202610270142,2026-10-27,2.69,10,24.21
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-29,2.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,2.0,98,0,,TX202610010042,2026-10-01,2.49,0,4.98
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-16,2.59,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,7.0,106,0,,,2026-10-08,4.79,0,33.53
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,1.0,77,0,,TX202610210131,2026-10-21,4.99,0,4.99
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-30,4.29,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-25,2.79,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,113,0,,TX202610070161,2026-10-07,4.79,0,28.74
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,2.0,126,0,,TX202610010122,2026-10-01,6.29,0,12.58
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,1.0,126,0,,TX202610040131,2026-10-04,4.99,0,4.99
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,69,0,,TX202610190112,2026-10-19,8.99,0,17.98
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-20,8.49,10,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-26,6.29,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,4.0,81,0,,TX202610040052,2026-10-04,6.49,0,25.96
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,6.0,92,0,,TX202610020052,2026-10-02,6.49,0,38.94
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,1.0,100,0,,TX202610020112,2026-10-02,8.99,0,8.99
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,4.0,25,0,,,2026-10-15,2.49,0,9.96
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-19,5.29,0,0.0
+FP008,Strawberry Ice Cream,pizza,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,5.0,177,0,,TX202610090082,2026-10-09,4.36,5,21.8
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,7.0,77,0,,TX202610050042,2026-10-05,2.49,0,17.43
+FP008,Strawberry Ice Cream,Ice Cream,OCEANWAY,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,,182,0,,TX202610080082,2026-10-08,4.36,5,4.36
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-15,8.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-20,4.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,3.0,42,0,,TX202610120042,2026-10-12,2.49,0,7.47
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,2.0,198,0,,TX202610040111,2026-10-04,8.99,0,17.98
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,1.0,104,0,,TX202610070121,2026-10-07,6.29,0,6.29
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,1.0,188,0,,TX202610080132,2026-10-08,4.99,0,4.99
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-20,8.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,7.0,127,0,,TX202610050161,2026-10-05,4.79,0,33.53
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,3.0,22,0,,,2026-10-27,4.79,0,14.37
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,166,0,,,2026-10-28,8.99,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,39,0,,TX202610290142,2026-10-29,2.09,30,14.63
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,140,0,,TX202610030161,2026-10-03,4.79,0,28.74
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-30,5.99,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,6.0,149,0,,TX202610100142,2026-10-10,2.99,0,17.94
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,4.0,78,0,,TX202610200131,2026-10-20,4.99,0,19.96
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,31/13/2026,161,3.0,0,147,Low demand,TX202610030091,2026-10-03,4.92,15,14.76
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,,75,0,,TX202610220131,2026-10-22,4.99,0,9.98
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-22,6.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,Green farm,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-08,5.99,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,5.0,125,0,,TX202610020162,2026-10-02,4.79,0,23.95
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,10.0,71,0,,TX202610050102,2026-10-05,1.68,35,16.8
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,1.0,189,0,,,2026-10-04,2.98,35,2.98
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,7.0,48,0,,TX202610130022,2026-10-13,3.97,25,27.79
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,4.0,116,0,,TX202610090131,2026-10-09,4.99,0,19.96
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,0.0,0,0,,,2026-10-31,4.99,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,4.0,73,0,,TX202610240061,2026-10-24,5.39,10,21.56
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-11,2.59,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,15.0,142,0,,TX202610020021,2026-10-02,5.29,0,79.35
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-25,4.49,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-27,8.49,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,3.0,86,0,,TX202610070182,2026-10-07,2.29,0,6.87
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,1.0,56,0,,TX202610250112,2026-10-25,8.99,0,8.99
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-09,2.79,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,3.0,181,0,,TX202610150111,2026-10-15,8.99,0,26.97
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,7.0,179,0,,TX202610090072,2026-10-09,4.29,0,30.03
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,,0,0,,,2026-10-24,5.99,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,2.0,79,0,,TX202610130121,2026-10-13,6.29,0,12.58
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,8.0,81,0,,TX202610110162,2026-10-11,4.79,0,38.32
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,0,32,Low demand,TX202610300142,2026-10-30,2.69,10,18.83
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-28,4.29,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,0.0,47,0,,,2026-10-19,2.29,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,15.0,167,0,,TX202610020012,2026-10-02,4.49,0,67.35
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,7.0,209,0,,,2026-10-02,2.29,0,16.03
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,5.0,68,0,,TX202610120182,2026-10-12,2.29,0,11.45
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-05,8.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,9.0,67,0,,TX202610030062,2026-10-03,4.49,25,40.41
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-30,3.79,10,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-31,2.59,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-05,5.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,5.0,152,0,,TX202610040012,2026-10-04,4.49,0,22.45
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,4.0,107,0,,TX202610160141,2026-10-16,2.99,0,11.96
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,10.0,93,0,,TX202610160131,2026-10-16,4.99,0,49.9
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-18,8.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,,137,0.0,120,0,,,2026-10-08,4.99,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,3.0,162,0,,TX202610050061,2026-10-05,5.99,0,17.97
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,4.0,0,0,,TX202610200042,2026-10-20,2.12,15,8.48
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-27,3.79,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-22,8.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,2.0,104,0,,TX202610030022,2026-10-03,5.29,0,10.58
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,157,0,,TX202610230132,2026-10-23,4.49,10,8.98
+FP003,Frozen Mixed Vegetables,pizza,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-31,2.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-15,2.59,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-04,5.79,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,10.0,154,0,,TX202610070141,2026-10-07,2.99,0,29.9
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-22,4.59,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,8.0,0,0,,TX202610080101,2026-10-08,2.59,0,20.72
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-18,5.99,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,1.0,183,0,,TX202610070082,2026-10-07,4.59,0,4.59
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,4.0,77,0,,TX202610230061,2026-10-23,4.49,25,17.96
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,5.0,126,0,,TX202610120141,2026-10-12,2.99,0,14.95
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-21,2.59,0,0.0
+FP014,Garlic Bread,icecream,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,3.0,105,0,,TX202610180142,2026-10-18,2.99,0,8.97
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-24,6.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,0.0,0,0,,,2026-10-30,5.99,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,6.0,27,0,,TX202610160052,2026-10-16,5.52,15,33.12
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-31,4.49,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,7.0,65,0,,TX202610060051,2026-10-06,6.49,0,45.43
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,7.0,40,0,,TX202610190162,2026-10-19,4.79,0,33.53
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-31,6.29,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,6.0,47,0,,TX202610180182,2026-10-18,2.29,0,13.74
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-13,2.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,5.0,99,0,,TX202610260072,2026-10-26,4.29,0,21.45
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-22,2.79,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,,2026-09-08,2026-11-05,213,1.0,90,0,,TX202610290072,2026-10-29,3.86,10,3.86
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-16,3.79,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-29,2.29,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,6.0,65,0,,TX202610230141,2026-10-23,2.09,30,12.54
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-24,4.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,2.0,132,0,,TX202610110151,2026-10-11,3.79,0,7.58
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,180,0,,TX202610170111,2026-10-17,8.99,0,8.99
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,53,0,,TX202610270112,2026-10-27,8.99,0,26.97
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,3.0,22,0,,,2026-10-27,4.79,0,14.37
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-23,6.29,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,frostbite,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-07,4.59,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,6.0,42,0,,TX202610040011,2026-10-04,4.49,0,26.94
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,2.0,84,0,,,2026-10-04,2.49,0,4.98
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,3.0,0,3,Poor stock rotation,TX202610310182,2026-10-31,2.29,0,6.87
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,0.0,0,0,,,2026-10-26,3.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,6.0,93,0,,TX202610180061,2026-10-18,5.09,15,30.54
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,7.0,49,0,,TX202610190161,2026-10-19,4.79,0,33.53
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,2.0,74,0,,TX202610150121,2026-10-15,5.98,5,11.96
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,11.0,85,0,,TX202610060031,2026-10-06,2.79,0,30.69
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-18,4.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-14,5.29,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-10,8.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,1.0,147,0,,TX202610270132,2026-10-27,4.99,0,4.99
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,4.0,89,0,,TX202610170131,2026-10-17,4.99,0,19.96
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-06,8.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,5.0,95,0,,TX202610100161,2026-10-10,4.79,0,23.95
+FP017,Frozen Shrimp,Frozen vegetables,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-13,8.49,10,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,3.0,166,0,,TX202610070142,2026-10-07,2.99,0,8.97
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-08,8.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-24,5.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-18,2.49,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,3.0,99,0,,TX202610200142,2026-10-20,2.99,0,8.97
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,0.0,0,0,,,2026-10-30,3.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-25,2.59,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-20,2.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,0.0,0,0,,,2026-10-26,4.49,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-09,2.59,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,7.0,85,0,,TX202610030052,2026-10-03,6.49,0,45.43
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,3.0,157,0,,TX202610010021,2026-10-01,5.29,0,15.87
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-18,4.59,110,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,3.0,59,0,,TX202610100052,2026-10-10,6.49,0,19.47
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-15-40,73,2.0,50,0,,TX202610060071,2026-10-06,4.29,0,8.58
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-12,5.29,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,8.0,19,0,,TX202610170052,2026-10-17,5.52,15,44.16
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-27,4.59,10,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,193,0,,,2026-10-10,8.99,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,6.0,94,0,,TX202610110122,2026-10-11,6.29,0,37.74
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,4.0,89,0,,TX202610060182,2026-10-06,2.29,0,9.16
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-28,4.59,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,6.0,101,0,,TX202610010092,2026-10-01,5.21,10,31.26
+FP007,Vanilla Ice Cream,Frozen vegetables,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-24,4.29,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-21,5.99,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-29,2.59,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-22,4.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-29,2.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,-3.0,176,0,,TX202610010061,2026-10-01,5.99,0,11.98
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,1.0,109,0,,TX202610060162,2026-10-06,4.79,0,4.79
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,7.0,44,0,,TX202610100051,2026-10-10,6.49,0,45.43
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,0.0,0,0,,,2026-10-18,4.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-07,2.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-27,2.79,35,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,5.0,68,0,,TX202610010071,2026-10-01,4.29,0,21.45
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-17,5.79,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-25,2.29,75,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,3.0,160,0,,TX202610310111,2026-10-31,8.99,0,26.97
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-25,4.59,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,6.0,60,0,,TX202610090042,2026-10-09,2.49,0,14.94
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-19,5.29,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-24,5.79,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-17,5.29,0,0.0
+FP015,Frozen Waffles,Breakfast,,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,5.0,84,0,,TX202610240151,2026-10-24,2.84,25,14.2
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-28,8.49,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,6.0,81,0,,TX202610040102,2026-10-04,1.81,30,10.86
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,4.0,173,0,,TX202610100082,2026-10-10,4.13,10,16.52
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,2.0,125,0,,TX202610150151,2026-10-15,3.79,0,7.58
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,3.0,102,0,,TX202610190142,2026-10-19,2.99,0,8.97
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-25,5.99,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-07,2.59,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,6.0,73,0,,TX202610160161,2026-10-16,4.79,0,28.74
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,159,0,,TX202610220132,2026-10-22,4.99,0,9.98
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-30,2.59,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,,0,0,,,2026-10-28,5.29,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-19,5.79,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,4.0,197,0,,TX202610050072,2026-10-05,4.29,0,17.16
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,5.0,0,5,Near-expiry not discounted,TX202610200052,2026-10-20,5.52,15,27.6
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,13.0,87,0,,TX202610030102,2026-10-03,2.2,15,28.6
+FP013,Frozen Blueberries,Fruit,BerryBest,,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,189,0,,TX202610070132,2026-10-07,4.99,0,9.98
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-29,4.59,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,4.0,109,0,,TX202610080122,2026-10-08,6.29,0,25.16
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,2.0,82,0,,TX202610010062,2026-10-01,5.09,15,10.18
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,3.0,78,0,,TX202610180122,2026-10-18,4.4,30,13.2
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-08,2.49,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-17,8.49,10,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,2.0,47,0,,TX202610180162,2026-10-18,4.31,10,8.62
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-12,2.49,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,7.0,81,0,,TX202610030051,2026-10-03,6.49,0,45.43
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,9.0,74,0,,TX202610010011,2026-10-01,4.49,0,40.41
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,1.0,101,0,,TX202610010112,2026-10-01,8.99,0,8.99
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-13,2.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-14,5.99,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-19,4.59,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,6.0,207,0,,TX202610010072,2026-10-01,4.29,0,25.74
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,10.0,124,0,,TX202610090152,2026-10-09,3.22,15,32.2
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,2.0,167,0,,TX202610260111,2026-10-26,8.99,0,17.98
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,0.0,169,0,,,2026-10-16,4.99,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-29,8.49,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-24,2.59,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-27,6.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-22,2.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-31,5.29,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,-1.0,95,0,,TX202610170141,2026-10-17,2.99,0,35.88
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,9.0,198,0,,TX202610010142,2026-10-01,2.99,0,26.91
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,0.0,0,0,,,2026-10-28,2.99,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-21,6.49,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-14,8.49,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,2.0,93,0,,TX202610110161,2026-10-11,4.79,0,9.58
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-31,2.79,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,169,0,,,2026-10-24,8.99,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-30,6.29,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,5.0,104,0,,TX202610190151,2026-10-19,3.22,15,16.1
+FP005,Chicken Nuggets,Meat,OCEANWAY,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-23,6.49,10,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-22,5.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-31,4.29,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,4.0,81,0,,TX202610170122,2026-10-17,5.35,15,21.4
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,4.0,60,0,,TX202610150162,2026-10-15,4.79,0,19.16
+FP012,Vegan Burger Patties,icecream,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,4.0,109,0,,TX202610080122,2026-10-08,6.29,0,25.16
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-11,2.29,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,Berlin-Mitte,2026-09-23,2026-10-10,160,0.0,0,0,,,2026-10-29,5.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-25,2.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,7.0,53,0,,TX202610100042,2026-10-10,2.49,0,17.43
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,3.0,42,0,,TX202610130052,2026-10-13,6.17,5,18.51
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,4.0,122,0,,TX202610050131,2026-10-05,4.99,0,19.96
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,5.0,119,0,,TX202610100152,2026-10-10,3.6,5,18.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,4.0,160,0,,,2026-10-02,3.79,0,15.16
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-10,5.99,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-20,2.29,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-21,6.49,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-28,2.79,30,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,3.0,161,0,,,2026-10-13,3.21,30,9.63
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-27,5.79,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,6.0,140,0,,TX202610090151,2026-10-09,3.79,0,22.74
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,4.0,106,0,,TX202610020022,2026-10-02,5.29,0,21.16
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-15,5.99,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-31,2.29,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,1.0,66,0,,TX202610040062,2026-10-04,4.49,25,4.49
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,61,0,,TX202610220112,2026-10-22,8.09,10,16.18
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-16,6.49,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-06,5.79,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,2.0,36,0,,,2026-10-12,5.84,10,11.68
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,0.0,0,0,,,2026-10-29,3.79,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,7.0,81,0,,TX202610120121,2026-10-12,6.29,0,44.03
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,8.0,14,0,,TX202610280161,2026-10-28,4.79,0,38.32
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,5.0,95,0,,TX202610210151,2026-10-21,3.22,15,16.1
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,3.0,190,0,,TX202610110111,2026-10-11,8.99,0,26.97
+FP017,Frozen Shrimp,Frozen vegetables,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-18,8.49,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,4.0,0,69,Low demand,TX202610250061,2026-10-25,5.39,10,21.56
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,1.0,0,113,Near-expiry not discounted,TX202610030172,2026-10-03,5.94,30,5.94
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,7.0,64,0,,TX202610140162,2026-10-14,4.79,0,33.53
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,3.0,66,0,,TX202610200112,2026-10-20,8.99,0,26.97
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,2.0,114,0,,,2026-10-02,5.52,35,11.04
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-20,5.79,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,0.0,0,0,,,2026-10-21,2.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-23,2.59,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,2.0,88,0,,TX202610200061,2026-10-20,5.69,5,11.38
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-12,8.49,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,5.0,141,0,,TX202610170072,2026-10-17,4.29,0,21.45
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,3.0,64,0,,TX202610260131,2026-10-26,4.99,0,14.97
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,-2.0,10,0,,TX202610190052,2026-10-19,5.52,15,27.6
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-24,6.29,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,6.0,191,0,,TX202610060072,2026-10-06,4.29,0,25.74
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-18,2.59,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,2.0,0,82,Forecast error,TX202610250151,2026-10-25,3.41,10,6.82
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,5.0,150,0,,TX202610020091,2026-10-02,4.63,20,23.15
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,10.0,0,32,Poor stock rotation,TX202610150022,2026-10-15,4.23,20,42.3
+FP003,Frozen Mixed Vegetables,Vegetables,Green farm,1.2,2.79,-18,FP003-B01,Munich-West,2026-09-28,2026-10-30,144,17.0,117,0,,TX202610020031,2026-10-02,2.79,0,47.43
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,6.0,184,0,,TX202610060082,2026-10-06,4.59,0,27.54
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,7.0,134,0,,TX202610180072,2026-10-18,4.29,0,30.03
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,0.0,0,0,,,2026-10-29,6.29,0,0.0
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-18,2.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,,100,0.0,0,0,,,2026-10-30,2.49,0,0.0
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-20,6.49,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B02,Hamburg-Nord,2026-09-11,2026-10-03,107,0.0,0,0,,,2026-10-19,5.79,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,7.0,23,0,,TX202610190012,2026-10-19,4.49,0,31.43
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-07,2.79,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-22,2.49,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-20,2.59,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,,0,0,,,2026-10-18,5.79,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B01,,2026-09-23,2026-10-10,160,7.0,122,0,,TX202610060021,2026-10-06,5.03,5,35.21
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B01,Munich-West,2026-09-21,2026-10-10,219,0.0,0,0,,,2026-10-30,2.29,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,2.0,64,0,,,2026-10-05,4.19,30,8.38
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,6.0,76,0,,TX202610020062,2026-10-02,5.99,0,35.94
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,0.0,0,0,,,2026-10-25,6.29,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,2.0,150,0,,TX202610250132,2026-10-25,4.99,0,9.98
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,2.0,103,0,,TX202610150131,2026-10-15,4.99,0,9.98
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,14.0,60,0,,TX202610020011,2026-10-02,4.49,0,62.86
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-29,6.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,3.0,127,0,,TX202610140151,2026-10-14,3.79,0,11.37
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,5.0,79,0,,TX202610200141,2026-10-20,2.84,5,14.2
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,0.0,169,0,,,2026-10-25,8.99,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,5.0,105,0,,TX202610140131,2026-10-14,4.99,0,24.95
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,9.0,27,0,,TX202610060011,2026-10-06,4.04,10,36.36
+FP016,Cheese Pizza Snacks,Pizza,OCEANWAY,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,8.0,119,0,,,2026-10-06,4.79,0,38.32
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-31,2.59,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B01,Munich-West,2026-09-17,2026-12-05,204,1.0,179,0,,TX202610190111,2026-10-19,8.99,110,8.99
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,0.0,165,0,,,2026-10-18,4.99,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,,2026-09-11,2026-10-30,136,0.0,0,0,,,2026-10-30,4.79,35,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-27,2.59,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B01,Berlin-Mitte,2026-09-29,2026-10-15,83,13.0,0,0,,,2026-10-09,4.27,5,55.51
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,10.0,157,0,,TX202610030012,2026-10-03,4.49,0,44.9
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,0.0,0,0,,,2026-10-26,2.59,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-29,5.29,0,0.0
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-15,5.79,0,0.0
+FP003,Frozen Mixed Vegetables,Vegetables,Sweet Peak ,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-27,2.79,0,0.0
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B02,Berlin-Mitte,2026-09-08,2026-11-05,213,4.0,187,0,,TX202610070072,2026-10-07,4.29,0,17.16
+FP003,Frozen Mixed Vegetables,Vegetables,GreenFarm,1.2,2.79,-18,FP003-B02,Hamburg-Nord,2026-09-07,2026-10-03,128,0.0,0,0,,,2026-10-06,2.79,0,0.0
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B01,Munich-West,2026-09-11,2026-10-25,178,7.0,134,0,,TX202610100061,2026-10-10,5.99,0,41.93
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,4.0,82,0,,TX202610190131,2026-10-19,4.99,0,19.96
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-23,3.79,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,6.0,75,0,,TX202610120162,2026-10-12,4.79,0,28.74
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,0.0,0,0,,,2026-10-17,4.29,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,4.0,36,0,,,2026-10-24,4.79,0,19.16
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,6.0,4,0,,TX202610190042,2026-10-19,2.12,15,12.72
+FP007,Vanilla Ice Cream,Ice Cream,SweetPeak,2.0,4.29,-18,FP007-B01,Munich-West,2026-09-12,2026-09-28,73,3.0,21,0,,TX202610130071,2026-10-13,4.29,0,12.87
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,6.0,134,0,,TX202610100151,2026-10-10,3.79,0,22.74
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-31,4.59,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B02,Berlin-Mitte,2026-09-10,2026-10-03,116,0.0,0,0,,,2026-10-30,8.49,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,7.0,85,0,,TX202610220142,2026-10-22,2.99,0,20.93
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-24,6.49,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,0.0,0,0,,,2026-10-24,2.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B02,Heidelberg,2026-09-28,2026-12-05,204,0.0,191,0,,,2026-10-06,4.99,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B02,Munich-West,2026-09-15,2026-10-15,155,0.0,0,0,,,2026-10-31,3.79,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,5.0,168,0,,TX202610110082,2026-10-11,4.36,5,21.8
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,10.0,93,0,,TX202610010051,2026-10-01,6.49,0,64.9
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B02,Berlin-Mitte,2026-09-28,2026-10-20,128,2.0,92,0,,TX202610130122,2026-10-13,6.29,0,12.58
+FP018,Spinach Portions,Vegetables,GreenFarm,0.95,2.29,-18,FP018-B02,Munich-West,2026-09-27,2026-09-28,109,4.0,43,0,,TX202610200182,2026-10-20,2.29,0,9.16
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B01,Hamburg-Nord,2026-09-25,2026-12-05,86,17.0,51,0,,TX202610030101,2026-10-03,2.59,0,44.03
+FP008,Strawberry Ice Cream,icecream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-18,4.59,0,0.0
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B01,Berlin-Mitte,2026-09-19,2026-09-28,158,4.0,40,0,,TX202610230161,2026-10-23,4.79,0,19.16
+FP001,Frozen Margherita Pizza,Pizza,FrostBite,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,9.0,14,0,,TX202610200012,2026-10-20,4.49,0,40.41
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B01,Heidelberg,2026-09-17,2026-10-15,103,0.0,0,0,,,2026-10-27,6.49,0,0.0
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B02,Berlin-Mitte,2026-09-09,2026-10-15,209,0.0,0,0,,,2026-10-22,4.59,0,0.0
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,2.0,45,0,,TX202610310112,2026-10-31,8.54,5,17.08
+FP015,Frozen Waffles,Breakfast,MorningJoy,74.31,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,4.0,100,0,,TX202610200151,2026-10-20,3.6,5,14.4
+FP011,Frozen Salmon Fillets,Seafood,OceanWay,4.6,8.99,-18,FP011-B02,Munich-West,2026-09-15,2026-11-05,102,0.0,89,0,,,2026-10-10,8.99,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-08,2.59,0,0.0
+FP017,Frozen Shrimp,Seafood,OceanWay,4.1,8.49,-18,FP017-B01,Hamburg-Nord,2026-09-17,2026-10-03,86,0.0,0,0,,,2026-10-07,8.49,0,0.0
+FP015,Frozen Waffles,Breakfast,MorningJoy,1.7,3.79,-18,FP015-B01,Hamburg-Nord,2026-09-24,2026-10-25,168,4.0,164,0,,TX202610010151,2026-10-01,3.79,0,15.16
+FP005,Chicken Nuggets,Meat,CrispyCo,3.2,6.49,-18,FP005-B02,Hamburg-Nord,2026-09-11,2026-10-20,100,0.0,0,0,,,2026-10-26,6.49,0,0.0
+FP002,Frozen Pepperoni Pizza,Pizza,FrostBite,2.45,5.29,-18,FP002-B02,Heidelberg,2026-09-19,2026-10-15,117,0.0,0,0,,,2026-10-30,5.29,0,0.0
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B02,Hamburg-Nord,2026-09-18,2026-10-20,100,6.0,15,0,,TX202610170042,2026-10-17,1.74,30,10.44
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B01,Berlin-Mitte,2026-09-28,2026-10-25,197,6.0,59,0,,TX202610240141,2026-10-24,2.24,25,13.44
+FP008,Strawberry Ice Cream,Ice Cream,SweetPeak,2.15,4.59,-18,FP008-B01,Munich-West,2026-09-16,2026-10-06,199,0.0,0,0,,,2026-10-14,4.59,0,0.0
+FP014,Garlic Bread,Bakery,BakeHouse,1.35,2.99,-18,FP014-B02,Hamburg-Nord,2026-09-21,2026-10-30,207,6.0,179,0,,TX202610040142,2026-10-04,2.99,0,17.94
+FP004,Frozen Broccoli,Vegetables,GreenFarm,1.05,2.49,-18,FP004-B01,Berlin-Mitte,2026-09-22,2026-10-03,89,0.0,0,0,,,2026-10-17,2.49,0,0.0
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,,2026-09-22,2026-10-30,137,1.0,115,0,,TX202610100131,2026-10-10,4.99,0,4.99
+FP009,Frozen Lasagne,Ready Meals,CasaMeal,2.7,5.79,-18,FP009-B01,Heidelberg,2026-09-29,2026-10-03,161,0.0,0,0,,,2026-10-16,5.79,0,0.0
+FP010,Frozen Fries,Potatoes,GoldenFarm,1.1,2.59,-18,FP010-B02,Heidelberg,2026-09-12,2026-10-06,116,0.0,0,0,,,2026-10-22,2.59,0,0.0
+FP012,Vegan Burger Patties,Plant Based,PlantGood,2.9,6.29,-18,FP012-B01,Hamburg-Nord,2026-09-27,2026-10-20,118,4.0,67,0,,TX202610190121,2026-10-19,4.09,35,16.36
+FP006,Frozen Fish Fingers,Seafood,OceanWay,2.8,5.99,-18,FP006-B02,Hamburg-Nord,2026-09-09,2026-10-06,84,0.0,0,0,,,2026-10-28,5.99,0,0.0
+FP001,Frozen Margherita Pizza,Pizza,Green farm,2.1,4.49,-18,FP001-B02,Heidelberg,2026-09-28,2026-09-28,186,10.0,30,0,,TX202610180012,2026-10-18,4.49,0,44.9
+FP013,Frozen Blueberries,Fruit,BerryBest,2.4,4.99,-18,FP013-B01,Heidelberg,2026-09-22,2026-10-30,137,4.0,52,0,,TX202610290131,2026-10-29,3.99,20,15.96
+FP016,Cheese Pizza Snacks,Pizza,FrostBite,2.25,4.79,-18,FP016-B02,Berlin-Mitte,2026-09-11,2026-10-30,136,5.0,95,0,,TX202610090162,2026-10-09,4.79,0,23.95
